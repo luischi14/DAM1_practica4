@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DAM Practica5</string>
+    <string name="practice">Practica 5</string>
+    <string name="leapyear">Año Bisiesto</string>
+    <string name="personaje">Personaje</string>
+    <string name="table">Tablas de multiplicar</string>
+    <string name="average">promedio</string>
+    <string name="year">Ingrese un año</string>
+    <string name="validate">Validar</string>
+    <string name="typenumb">ingresa un numero</string>
+    <string name="Calculated">calcular</string>
+    <string name="number">Numero</string>
+    <string name="mat1">materia 1</string>
+    <string name="mat2">materia 2</string>
+    <string name="mat3">materia 3</string>
+    <string name="mat4">materia 4</string>
+    <string name="mat5">materia 5</string>
+    <string name="ingress">ingrese un numero</string>
+</resources>
